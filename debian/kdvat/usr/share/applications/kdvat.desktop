@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=kdvat
+Comment=This program was developed to facilitate VAT calculations.
+Exec=python3 /usr/bin/kdvat.py
+Icon=/usr/share/icons/hicolor/48x48/apps/kdv.png
+Terminal=false
+Categories=Utility;
+
+
+Name[tr_TR]=KDVAT
+

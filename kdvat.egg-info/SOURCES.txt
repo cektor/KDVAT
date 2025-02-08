@@ -1,0 +1,9 @@
+kdv.png
+kdvat.desktop
+setup.py
+kdvat.egg-info/PKG-INFO
+kdvat.egg-info/SOURCES.txt
+kdvat.egg-info/dependency_links.txt
+kdvat.egg-info/entry_points.txt
+kdvat.egg-info/requires.txt
+kdvat.egg-info/top_level.txt

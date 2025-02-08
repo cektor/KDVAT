@@ -1,0 +1,4 @@
+#!/bin/bash
+kdvat.py usr/bin/
+kdvat.desktop usr/share/applications/
+debian/kdv.png /usr/share/icons/hicolor/48x48/apps/
