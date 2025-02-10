@@ -115,7 +115,7 @@ MacOS VSCode Terminal
 pyinstaller --onefile --noconsole kdvat.py
 ```
 
-# To install directly on Linux
+# To install directly on Windows and Linux
 
 Linux (based debian) Terminal: Linux (debian based distributions) To install directly from Terminal.
 ```bash
