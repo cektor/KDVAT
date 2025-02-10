@@ -117,15 +117,15 @@ pyinstaller --onefile --noconsole kdvat.py
 
 # To install directly on Linux
 
-
-
-
-
 Linux (based debian) Terminal: Linux (debian based distributions) To install directly from Terminal.
 ```bash
 wget -O Setup_Linux64.deb https://github.com/cektor/KDVAT/releases/download/1.00/Setup_Linux64.deb && sudo apt install ./Setup_Linux64.deb && sudo apt-get install -f -y
 ```
 
+Windows Installer CMD (PowerShell): To Install from Windows CMD with Direct Connection.
+```bash
+powershell -Command "Invoke-WebRequest -Uri 'https://github.com/cektor/KDVAT/releases/download/1.00/Setup_Win64.exe' -OutFile 'Setup_Win64.exe'" && start /wait Setup_Win64.exe
+```
 
 Release Page: https://github.com/cektor/KDVAT/releases/tag/1.00
 ----------------------------------
