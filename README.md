@@ -17,6 +17,10 @@ KDVAT is an advanced VAT calculation application that runs on Linux, macOS, and 
 # Linux Screenshot
 ![Linux(pardus)](screenshot/kdvat_linux.gif)  
 
+
+# Windows Screenshot
+![windows(11 pro)](screenshot/kdvat_windows.png)  
+
 --------------------
 Install Git Clone and Python3
 
